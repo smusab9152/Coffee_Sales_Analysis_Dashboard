@@ -1,9 +1,9 @@
 # Coffee Sales Analysis Dashboard
 
-[View the Dashboard](https://smusab9152.github.io/Coffee_Sales_Analysis_Dashboard/)
+[View the Dashboard]((https://public.tableau.com/app/profile/musab.shaikh/viz/workbook_17595992892880/Dashboard1?publish=yes))
 
 <!-- Add a dashboard screenshot below -->
-![Dashboard Screenshot](https://public.tableau.com/app/profile/musab.shaikh/viz/workbook_17595992892880/Dashboard1?publish=yes)
+![Dashboard Screenshot](dashboard-image.png)
 
 ## Overview
 

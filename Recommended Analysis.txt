@@ -1,8 +1,1 @@
-Recommended Analysis
-How have Maven Roasters sales trended over time?
 
-Which days of the week tend to be busiest, and why do you think that's the case?
-
-What times of day tend to be most popular? Does the same trend hold across all locations?
-
-Which products are sold most and least often? Which drive the most revenue for the business?

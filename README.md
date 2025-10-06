@@ -1,7 +1,7 @@
 # Coffee Sales Analysis Dashboard
 
 <!-- Add a dashboard screenshot below -->
-![Dashboard Screenshot](path/to/dashboard-image.png)
+![Dashboard Screenshot](dashboard-image.png)
 
 ## Overview
 

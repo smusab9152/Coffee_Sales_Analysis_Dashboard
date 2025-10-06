@@ -1,11 +1,13 @@
 # Coffee Sales Analysis Dashboard
 
+[View the Dashboard](https://smusab9152.github.io/Coffee_Sales_Analysis_Dashboard/)
+
 <!-- Add a dashboard screenshot below -->
 ![Dashboard Screenshot](dashboard-image.png)
 
 ## Overview
 
-The **Coffee Sales Analysis Dashboard** is a professional business intelligence solution designed to provide comprehensive insights into coffee sales data. This dashboard helps stakeholders monitor key performance indicators, analyze trends, and make data-driven decisions to optimize sales strategies.
+The **Coffee Sales Analysis Dashboard** is a professional business intelligence solution designed to provide comprehensive insights into coffee sales data. This dashboard helps stakeholders monitor...
 
 ## Features
 
@@ -39,5 +41,3 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----

@@ -3,7 +3,7 @@
 [View the Dashboard](https://smusab9152.github.io/Coffee_Sales_Analysis_Dashboard/)
 
 <!-- Add a dashboard screenshot below -->
-![Dashboard Screenshot](dashboard-image.png)
+![Dashboard Screenshot](https://public.tableau.com/app/profile/musab.shaikh/viz/workbook_17595992892880/Dashboard1?publish=yes)
 
 ## Overview
 
